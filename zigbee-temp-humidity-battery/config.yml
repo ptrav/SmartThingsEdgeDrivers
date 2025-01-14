@@ -1,0 +1,6 @@
+name: 'Zigbee Temperature Humidity Sensor (+Battery)'
+packageKey: 'zigbee-temp-humidity-battery'
+description: 'Currently supported: SONOFF SNZB-02D'
+vendorSupportInformation: 'null'
+permissions:
+  zigbee: {}

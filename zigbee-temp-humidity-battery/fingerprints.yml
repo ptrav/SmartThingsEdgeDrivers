@@ -1,0 +1,7 @@
+zigbeeManufacturer:
+  - id: SONOFF/SNZB-02D
+    deviceLabel: SONOFF Zigbee LCD Temperature Humidity Sensor
+    manufacturer: SONOFF
+    model: SNZB-02D
+    deviceProfileName: temp-humidity-battery
+    
